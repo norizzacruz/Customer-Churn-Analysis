@@ -34,7 +34,7 @@ Produced a Story with 4 dashbboards using tableau
 Tableau: [Link](https://public.tableau.com/app/profile/norizza.cruz1812/viz/CustomerChurnAnalysis_17422855016420/ChurnAnalysis)
 
 ![Overview](https://github.com/norizzacruz/Customer/blob/main/Overview.png?raw=true)
-![Age Brackets & Groups](https://github.com/norizzacruz/Customer/blob/main/Overview.png?raw=true)
+![Age Brackets & Groups](https://github.com/norizzacruz/Customer-Churn-Analysis/blob/main/Age%20Brackets%20&%20Groups.png?raw=true)
 ![Data International Plan](https://github.com/norizzacruz/Customer/blob/main/Data%20and%20International%20Plan.png?raw=true)
 ![Payment Method and Contract Type](https://github.com/user-attachments/assets/9310a98f-5750-47f3-93d4-02e9f1296e1a)
 
