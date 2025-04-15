@@ -2,7 +2,7 @@
 
 ## 📚 About Data
 
-Databel company is an internet service provider with 6,687 customers across 51 states in United States, they want to unsderstand the reason why customers are leaving and ending the contract betweeen them. Data analysis will help them highlight areas where the customer experience needs improvement, such as usability issues, service problems and others. This will provide more detailed information to create strategies to retain the valubale customers to utilize their service.
+Databel company is an internet service provider with 6,687 customers across 51 states in United States. Understanding the reason why customers are leaving and ending the contract betweeen them, data analysis will help them highlight areas where the customer experience needs improvement, such as usability issues, service problems and others. This will provide more detailed information to create strategies to retain the valuable customers to utilize their service.
 
 This dataset contains a csv table with 6,687 records, one for each customers.
 
